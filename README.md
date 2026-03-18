@@ -3,3 +3,11 @@ a two player hand game where players simultaneously form one of three shapes- a 
 project link
 ## live Demo
 [Click here to play the game] (https://dalpatk745-boop.github.io/Rock-Paper-Scissors/)
+## Features
+-Interactive UI
+-Random compputer device
+-Score tracking
+## Tech stack
+-HTML
+-CSS
+-JavaScript
